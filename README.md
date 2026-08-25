@@ -49,13 +49,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=linskrs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2C5364&icon_color=2C5364" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linskrs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2C5364" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=linskrs&theme=dark&hide_border=true&background=0d1117&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" />
 
 </div>
